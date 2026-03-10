@@ -1,0 +1,12 @@
+Hi , 
+open the downloaded folder 
+
+
+
+open cmd install Streamlit,
+
+write pip install streamlit.
+
+then write-
+
+streamlit run app.py
