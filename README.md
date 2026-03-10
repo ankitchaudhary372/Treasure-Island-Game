@@ -84,38 +84,8 @@ Open in browser:
 http://localhost:8501
 ```
 
----
 
-## ⚡ Quick Start (One Command)
 
-You can also run everything using a single command:
-
-```
-python -m venv venv && venv\Scripts\activate && pip install -r requirements.txt && streamlit run app.py
-```
-
----
-
-## 📚 Learning Objectives
-
-This project demonstrates:
-
-* Python conditional logic (`if/else`)
-* Building interactive apps with **Streamlit**
-* Creating simple web games using Python
-* Deploying apps online
-
----
-
-## 🚀 Deployment
-
-This application is deployed using **Streamlit Cloud**.
-
-Steps used for deployment:
-
-1. Upload code to GitHub
-2. Connect repository to Streamlit Cloud
-3. Deploy the `app.py` file
 
 ---
 
